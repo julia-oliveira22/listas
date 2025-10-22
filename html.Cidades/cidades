@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+    <h2>As 5 cidades mais visitadas de <strong>Pernambuco</strong></h2>
+
+    <tr>
+        <td>Recife</td>
+        <td>Ipojuca</td>
+        <td>Olinda</td>
+        <td>Cabo de santo agostinho</td>
+        <td>Caruaru</td>
+    </tr>
