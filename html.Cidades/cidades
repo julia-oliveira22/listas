@@ -7,19 +7,365 @@ table, th, td {
 </style>
 <body>
 
-    <h2>As 5 cidades mais visitadas de <strong>Pernambuco</strong></h2>
+<h2>Todas UF do Brasil, Capitais e População</h2>
 
-    <tr>
-        
-        <td>Recife</td>
-        <td>Ipojuca</td>
-        <td>Olinda</td>
-        <td>Cabo de santo agostinho</td>
-        <td>Caruaru</td>
-     </td>
-    </tr>
+<table style="width:50%">
+  <tr>
+    <tr><th>UF</th>
+    <th>Capitais</th>
+    <th>População</th> 
+  </tr>
+  <tr>
+    <td>Acre(AC)</td>
+    <td>Rio Branco</td>
+    <td>880.631</td>
+  </tr>
+ <td>Alagoas(AL)</td>
+    <td>Maceió</td>
+    <td>3.220.104</td>
+    
+  </tr>
+  <tr>
+    <td>Amapá(AP)</td>
+    <td>Macapá</td>
+    <td>802.837</td>
+  </tr>
+  <tr>
+    <td>Distrito Federal(DF)</td>
+    <td>Brasília</td>
+    <td>2.982.815</td>
+  </tr>
+  <tr>
+    <td>Bahia(BA)</td>
+    <td>Salvador</td>
+    <td>4.281.209</td>
+  </tr>
+  <tr>
+    <td>Ceará(CE)</td>
+    <td>Fortaleza</td>
+    <td>9.236.56</td>
+  </tr>
+  <tr><td>Amazonas(AM)</td>
+    <td>Manaus</td>
+    <td>4.281.209</td>
+    
+  </tr>
+  <tr>
+    <td>Espírito Santo(ES)</td>
+    <td>Vitória</td>
+    <td>4.102.129</td>
+  </tr>
+  <tr>
+    <td>Goiás(GO)</td>
+    <td>Goiânia</td>
+    <td>7.005.000</td>
+  </tr>
+  <tr>
+    <td>Maranhão(MA)</td>
+    <td>São Luís</td>
+    <td>6.775.000</td>
+  </tr>
+  <tr>
+    <td>Minas Gerais(MG)</td>
+    <td>Belo Horizonte</td>
+    <td>21.393.441</td>
+  </tr>
+  <tr>
+    <td>Pará(PA)</td>
+    <td>Belém</td>
+    <td>8.116.000</td>
+  </tr>
+  <tr>
+    <td>Paraíba(PB)</td>
+    <td>João Pessoa</td>
+    <td>3.974.000</td>
+  </tr>
+  <tr>
+    <td>Paraná(PR)</td>
+    <td>Curitiba</td>
+    <td>11.890.517</td>
+  </tr>
+  <tr>
+    <td>Pernambuco(PE)</td>
+    <td>Recife</td>
+    <td>9.562.007</td>
+  </tr>
+  <tr>
+    <td>Piauí(PI)</td>
+    <td>Teresina</td>
+    <td>3.269.000</td>
+  </tr>
+  <tr>
+    <td>Rio de Janeiro(RJ)</td>
+    <td>Rio de janeiro</td>
+    <td>17.223.547</td>
+  </tr>
+  <tr>
+    <td>Rio Grande do Norte(RN)</td>
+    <td>Natal</td>
+    <td>3.530.000</td>
+  </tr>
+  <tr>
+    <td>Rio Grande do Sul(RS)</td>
+    <td>Porto Alegre</td>
+    <td>11.233.263</td>
+  </tr>
+  <tr>
+    <td>Rondônia(RO)</td>
+    <td>Porto Velho</td>
+    <td>1.581.000</td>
+  </tr>
+  <tr>
+    <td>Roraima(RR)</td>
+    <td>Boa Vista</td>
+    <td>636.000</td>
+  </tr>
+  <tr>
+    <td>Santa Catarina(SC)</td>
+    <td>Florianopólis</td>
+    <td>7.609.000</td>
+  </tr>
+  <tr>
+    <td>São Paulo(SP)</td>
+    <td>São Paulo</td>
+    <td>46.081.801</td>
+  </tr>
+  <tr>
+    <td>Sergipe(SE)</td>
+    <td>Aracáju</td>
+    <td>2.209.000</td>
+  </tr>
+  <tr>
+    <td>Tocantins(TO)</td>
+    <td>Palmas</td>
+    <td>1.511.000</td>
+  </tr>
 </table>
-
-
 </body>
 </html>
+<br>
+
+<h2>Tabela do Brasileirão Betano</h2>
+
+<table style="width:50%">
+<tr>
+    <th>Equipe</th>
+    <th>Jogos</th>
+    <th>Vitorias</th>
+    <th>Empate</th>
+    <th>Derrotas</th>
+    <th>Pontos</th>
+</tr>
+<tr>
+    <td>Corinthians</td>
+    <td>28</td>
+    <td>19</td>
+    <td>4</td>
+    <td>5</td>
+    <td>61</td>
+</tr>
+<tr>
+  <td>Flamengo</td>
+  <td>28</td>
+  <td>18</td>
+  <td>7</td>
+  <td>3</td>
+  <td>61</td>
+</tr>
+<tr>
+  <td>Cruzeiro</td>
+  <td>29</td>
+  <td>16</td>
+  <td>8</td>
+  <td>5</td>
+  <td>56</td>
+</tr>
+<tr>
+  <td>Mirassol</td>
+  <td>29</td>
+  <td>14</td>
+  <td>10</td>
+  <td>5</td>
+  <td>52</td>
+</tr>
+<tr>
+  <td>Bahia</td>
+  <td>29</td>
+  <td>13</td>
+  <td>8</td>
+  <td>8</td>
+  <td>47</td>
+</tr>
+<t>
+  <td>Botafogo</td>
+  <td>29</td>
+  <td>13</td>
+  <td>7</td>
+  <td>9</td>
+  <td>46</td>
+</t>
+<tr>
+  <td>Fluminense</td>
+  <td>28</td>
+  <td>12</td>
+  <td>5</td>
+  <td>11</td>
+  <td>41</td>
+</tr>
+<tr>
+  <td>Vasco</td>
+  <td>29</td>
+  <td>11</td>
+  <td>6</td>
+  <td>12</td>
+  <td>39</td>
+</tr>
+<tr>
+  <td>São Paulo</td>
+  <td>29</td>
+  <td>10</td>
+  <td>8</td>
+  <td>11</td>
+  <td>38</td>
+</tr>
+<tr>
+  <td>Red Bull Bragantino</td>
+  <td>29</td>
+  <td>10</td>
+  <td>6</td>
+  <td>13</td>
+  <td>36</td>
+  <tr>
+    <td>Sport</td>
+    <td>29</td>
+    <td>9</td>
+    <td>9</td>
+    <td>11</td>
+    <td>36</td>
+  </tr>
+</tr>
+<tr>
+  <td>Internacional</td>
+  <td>29</td>
+  <td>9</td>
+  <td>9</td>
+  <td>11</td>
+  <td>36</td>
+</tr>
+<tr>
+  <td>Grêmio</td>
+  <td>29</td>
+  <td>9</td>
+  <td>9</td>
+  <td>11</td>
+  <td>36</td>
+</tr>
+<tr>
+  <td>Ceará</td>
+  <td>28</td>
+  <td>9</td>
+  <td>8</td>
+  <td>11</td>
+  <td>35</td>
+</tr>
+<tr>
+  <td>Atlético-MG</td>
+  <td>28</td>
+  <td>8</td>
+  <td>9</td>
+  <td>11</td>
+  <td>33</td>
+</tr>
+<tr>
+  <td>Santos</td>
+  <td>28</td>
+  <td>8</td>
+  <td>7</td>
+  <td>13</td>
+  <td>31</td>
+</tr>
+<tr>
+  <td>Vitória</td>
+  <td>29</td>
+  <td>7</td>
+  <td>10</td>
+  <td>12</td>
+  <td>31</td>
+</tr>
+<tr>
+  <td>Juventude</td>
+  <td>29</td>
+  <td>7</td>
+  <td>6</td>
+  <td>12</td>
+  <td>26</td>
+</tr>
+<tr>
+  <td>Fortaleza</td>
+  <td>28</td>
+  <td>6</td>
+  <td>6</td>
+  <td>16</td>
+  <td>24</td>
+</tr>
+<tr>
+  <td>Palmeiras</td>
+  <td>28</td>
+  <td>2</td>
+  <td>12</td>
+  <td>15</td>
+  <td>17</td>
+</tr>
+</table>
+<br>
+
+<h2>15 Animais</h2>
+
+<table style="width:50%"> 
+<th>Animais</th>
+<tr>
+  <td>Orca</td>
+</tr>
+<tr>
+  <td>Tubarão</td>
+</tr>
+<tr>
+  <td>Coruja</td>
+</tr>
+<tr>
+  <td>Axalote</td>
+</tr>
+<tr>
+  <td>Caracol</td>
+</tr>
+<tr>
+  <td>Diabo da tasmânia</td>
+</tr>
+<tr>
+  <td>Albatroz</td>
+</tr>
+<tr>
+  <td>peixe-Diabo</td>
+</tr>
+<tr>
+  <td>Burro</td>
+</tr>
+<tr>
+  <td>Viúva-Negra</td>
+</tr>
+<tr>
+  <td>Gato</td>
+</tr>
+<tr>
+  <td>Caranguejo</td>
+</tr>
+<tr>
+  <td>Harpia</td>
+</tr>
+<tr>
+  <td>Baleia-azul</td>
+</tr>
+<tr>
+  <td>Polvo</td>
+</tr>
+</table>
